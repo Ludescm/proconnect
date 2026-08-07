@@ -1,0 +1,9 @@
+# 1. Fichiers de configuration sensibles
+config/db.php
+
+# 2. Dossiers de l'éditeur de code (si tu utilises VS Code)
+.vscode/
+
+# 3. Fichiers système invisibles (macOS / Windows)
+.DS_Store
+Thumbs.db
